@@ -1,0 +1,9 @@
+main.c:101:5:main	40	static
+main.c:267:6:SystemClock_Config	88	static
+main.c:312:13:MX_TIM3_Init	48	static
+main.c:360:13:MX_USART2_UART_Init	8	static
+main.c:393:13:MX_GPIO_Init	48	static
+main.c:426:6:HAL_TIM_OC_DelayElapsedCallback	16	static
+main.c:439:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:457:9:FilterMovingAvg	24	static
+main.c:477:6:Error_Handler	4	static,ignoring_inline_asm
